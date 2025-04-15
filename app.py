@@ -2,7 +2,6 @@ import streamlit as st
 import PyPDF2
 import google.generativeai as genai
 
-# Set your OpenAI API key
 genai.configure(api_key="AIzaSyDVv4B18KVv95-HPG4yUgjOlzQULzRMIp4")
 
 st.title("📄 LLM-powered PDF Q&A Chatbot by Gaurav")
