@@ -1,3 +1,3 @@
 # .streamlit/secrets.toml
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "Your's secret key"
 
